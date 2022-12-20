@@ -414,11 +414,12 @@ justify-content: space-between;
     .redes-flotantes i {
         font-size: 50px;
 }
+}
 @media screen and (max-width:943px){
     .read-more-trigger {
         margin-left: 8%;
         width: 100%;
-      
+    }
 }
 @media screen and (max-width:902px){
     .text-presentation p{
@@ -683,4 +684,3 @@ justify-content: space-between;
         margin-left: 5%;
       }   
     }
-}
